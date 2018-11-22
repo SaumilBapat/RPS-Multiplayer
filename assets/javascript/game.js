@@ -151,7 +151,6 @@ function renderPlayAgain() {
 }
 
 function restartGame() {
-  alert('Restart');
   counter = null;
   currentGame = {
     status: "Started",
